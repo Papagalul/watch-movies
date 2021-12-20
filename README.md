@@ -1,4 +1,4 @@
-# watch-movie
+# watch-movies
 Script for watch movies in linux
 
 # Watch movies in linux
