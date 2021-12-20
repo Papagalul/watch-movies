@@ -2,9 +2,9 @@
 #Created on 2021-12-13
 #By Papagalul
 
-MOVIESFOLDER="/home/user/Videos/filme"
-TVSHOWSFOLDER="/home/user/Videos/seriale"
-TUTORIALSFOLDER="/home/user/Videos/cursuri"
+MOVIESFOLDER="/home/user/Videos/Movies"
+TVSHOWSFOLDER="/home/user/Videos/TvShows"
+TUTORIALSFOLDER="/home/user/Videos/Tutorials"
 
 
 
